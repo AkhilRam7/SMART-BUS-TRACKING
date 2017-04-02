@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d32f2f</color>
+    <color name="colorPrimaryDark">#c72c2c</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorNavi">#ffffff</color>
+    <color name="holo_primary">#ca8888</color>
+    <color name="holo_primary_dark">#905757</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white">#ffffff</color>
+    <color name="back">#2affc878</color>
+
+
+</resources>

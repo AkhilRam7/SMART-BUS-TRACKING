@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/account_box"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_pass"
+            android:icon="@drawable/raspberrypi"
+            android:title="Bus Pass" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/wallet"
+            android:title="Wallet" />
+        <item
+            android:id="@+id/nav_trips"
+            android:icon="@drawable/transit_transfer"
+            android:title="Trips" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/help_circle"
+            android:title="Help" />
+        <item
+            android:id="@+id/nav_log"
+            android:icon="@drawable/logout"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+</menu>

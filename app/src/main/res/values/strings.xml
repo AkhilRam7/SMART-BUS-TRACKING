@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">LIVE\nbus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_favorite">favorite</string>
+    <string name="action_map">map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Search">Search</string>
+    <string name="Bus">Bus</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Friend">Friend</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">VALIDATE YOUR TICKET</string>
+    <string name="dummy_content">TICKET\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">"LIVE BUS" is the realtime Android Application to track the location and the passenger count of city buses. It has a feature of mwallet,mticket,
+        digital payment for your journey,Additional features like SMS , friend chat and realtime notificatons about the journey. </string>
+    <string name="email">Mobile No</string>
+    <string name="hint_password">Password</string>
+    <string name="action_sign_in_short">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered !</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="hint_mail">E-mail</string>
+    <string name="hint_phone">Mobile No</string>
+    <string name="hint_cpassword">Conform Password</string>
+    <string name="reg">Register</string>
+    <string name="otp">Enter the OTP</string>
+    <string name="submit">SUBMIT</string>
+    <string-array name="bus_list">
+        <item>KANDIGAI</item>
+        <item>TAMBARAM</item>
+        <item>KELLAMBAKKAM</item>
+        <item>VANDALUR</item>
+        <item>MAMBAKKAM</item>
+    </string-array>
+</resources>

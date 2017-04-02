@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_search"
+        android:title="@string/Search"
+        android:icon="@drawable/ic_search" />
+    <item android:id="@+id/action_bus"
+        android:title="@string/Bus"
+        android:icon="@drawable/ic_directions_bus" />
+    <item android:id="@+id/action_dashboard"
+        android:title="@string/Dashboard"
+        android:icon="@drawable/ic_view_carousel" />
+    <item android:id="@+id/action_friend"
+        android:title="@string/Friend"
+        android:icon="@drawable/ic_group" />
+</menu>
