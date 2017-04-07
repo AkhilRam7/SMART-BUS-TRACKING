@@ -6,3 +6,4 @@ This is the user app from where he can track the buses in the city. he have to j
 An additional functionality of booking the ticket is also given in order to eliminate the paper ticket. 
 
 For this app to work u mut also be having conductor app which will continously updates the location of the bus
+"https://github.com/koushik077/livebus_conductorapp"
