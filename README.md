@@ -7,3 +7,6 @@ An additional functionality of booking the ticket is also given in order to elim
 
 For this app to work u mut also be having conductor app which will continously updates the location of the bus
 "https://github.com/koushik077/livebus_conductorapp"
+
+SMART-BUS 
+"https://trackbus-9fbe9.firebaseapp.com/"
